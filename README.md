@@ -3,13 +3,13 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/prasanna-balaji08/insurancemanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/prasanna-balaji08/insurance-management-django/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
-![dashboard snap](https://github.com/prasanna-balaji08/insurancemanagement/blob/master/static/screenshots/dashboard.png?raw=true)
+![dashboard snap](https://github.com/prasanna-balaji08/insurance-management-django/blob/master/static/screenshots/dashboard.png?raw=true)
 ### Policy Record
-![invoice snap](https://github.com/prasanna-balaji08/insurancemanagement/blob/master/static/screenshots/policyrecord.png?raw=true)
+![invoice snap](https://github.com/prasanna-balaji08/insurance-management-django/blob/master/static/screenshots/policyrecord.png?raw=true)
 ### Policy 
-![doctor snap](https://github.com/prasanna-balaji08/insurancemanagement/blob/master/static/screenshots/policy.png?raw=true)
+![doctor snap](https://github.com/prasanna-balaji08/insurance-management-django/blob/master/static/screenshots/policy.png?raw=true)
 ---
 ## Functions
 ### Admin
