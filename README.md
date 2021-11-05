@@ -1,5 +1,5 @@
 # Insurance Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Prasanna%20balaji-red)
 ---
 ## screenshots
 ### Homepage
@@ -67,5 +67,5 @@ This project is developed for demo purpose and it's not supposed to be used in r
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
+- [Contact on Facebook](https://fb.com/prasanna balaji.luv)
 - [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoderonline)
